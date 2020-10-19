@@ -1,0 +1,3 @@
+/Users/NelsonCaterino/Projects/jeux_de_des/plus_ou_moin/bin/Release/plus_ou_moin.exe
+/Users/NelsonCaterino/Projects/jeux_de_des/plus_ou_moin/obj/anycpu/Release/plus_ou_moin.csproj.CoreCompileInputs.cache
+/Users/NelsonCaterino/Projects/jeux_de_des/plus_ou_moin/obj/anycpu/Release/plus_ou_moin.exe
